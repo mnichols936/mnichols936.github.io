@@ -12,8 +12,9 @@
 
 ## Disclaimers
 
-1. This is a personal project and does not represent or reflect the views, opinions, or work of my past employers.  
-2. The code, configurations, and resources in this repository are for **educational purposes only**. They demonstrate security and GRC concepts and should not be used directly in production without proper review, testing, and customization.
+This is a personal project and does not represent or reflect the views, opinions, or work of my current or previous employers.
+
+Case studies presented here use anonymized client information and focus on methodology and outcomes rather than proprietary details.
 
 
 ## Purpose
@@ -29,7 +30,7 @@ The portfolio is designed to:
 
 ## About Me
 
-I'm [Michael Nichols](www.linkedin.com/in/michaelnicholsprofile), a cybersecurity professional with 1.5+ years of experience in Governance, Risk, and Compliance (GRC), vulnerability management, audit readiness, and IAM.
+I'm [Michael Nichols](https://www.linkedin.com/in/michaelnicholsprofile), a cybersecurity professional with 1.5+ years of experience in Governance, Risk, and Compliance (GRC), vulnerability management, audit readiness, and IAM.
 
 - **Security Consulting**: Delivered SOC 2 readiness evaluations, HIPAA assessments, and third-party risk assessments for Fortune 500 companies and healthcare organizations. 
 - **Governance & Risk**: Built NIST CSF maturity roadmaps, performed compliance gap analyses, and developed security control implementations across multiple frameworks.
@@ -48,24 +49,27 @@ My career transition journey has involved:
 2. **Security Discovery**: Information Security internship at Ent Credit Union revealed passion for cybersecurity and introduction to GRC being the intersection of business and IT.
 3. **Compliance Operations**: Data Compliance Analyst role managing regulatory requirements for 700+ energy operations with 100% compliance rate.
 4. **GRC Specialization**: Cybersecurity consulting focused on SOC 2, HIPAA, and NIST CSF implementations for Fortune 500 clients.
-Technical Evolution: Currently building GRC engineering capabilities through AWS security automation and Windows-compatible tools.
+5. **Technical Evolution**: Currently building GRC engineering capabilities through AWS security automation.
 
 Key learnings include the critical need for GRC professionals to develop technical automation skills, the power of continuous monitoring over point-in-time assessments.
 
 ## Professional Case Studies
 
-- [AWS Account Governance & Security Foundations](projects/aws-account-governance.md)  
-  Established IAM Identity Center (SSO), MFA, AWS Config rules, and Security Hub with CIS/NIST mapping.
+- [SOC 2 Readiness Evaluation](professional-case-studies/soc2-readiness-evaluation.md)  
+  Comprehensive readiness assessment for Azure-hosted platform supporting Fortune 500 expansion timeline with Trust Service Criteria recommendations.
 
-- [AWS Account Governance & Security Foundations](projects/aws-account-governance.md)  
-  Established IAM Identity Center (SSO), MFA, AWS Config rules, and Security Hub with CIS/NIST mapping.  
+- [HIPAA Security Assessment](professional-case-studies/hipaa-security-assessment.md)  
+  Technical safeguards evaluation across 10 critical IT assets for telehealth organization, assessing 12+ access management requirements.
+
+- [Third-Party Risk Assessment](professional-case-studies/third-party-risk-assessment.md)  
+  Security controls evaluation of $2.4M IaaS provider for telehealth platform migration, focusing on PII/PHI data protection compliance. 
   
-  ## Technical Projects
+## Technical Projects
 
-- [AWS Account Governance & Security Foundations](projects/aws-account-governance.md)  
+- [AWS Account Governance & Security Foundations](technical-projects/aws-account-governance.md)  
   Established IAM Identity Center (SSO), MFA, AWS Config rules, and Security Hub with CIS/NIST mapping.
 
-- [AWS Automated Access Review](projects/aws-automated-access-review.md)  
+- [AWS Automated Access Review](technical-projects/aws-automated-access-review.md)  
   Comprehensive security assessment tool that automatically evaluates your AWS environment for potential security risks and compliance gaps.
 
   
@@ -98,11 +102,13 @@ Key learnings include the critical need for GRC professionals to develop technic
 ```
 GRC_Portfolio/
 ├── README.md - You are here!
-├── projects/ - Project case studies, labs, and artifacts
+├── professional-case-studies/
+│   ├── soc2-readiness-evaluation.md
+│   ├── hipaa-security-assessment.md
+│   └── third-party-risk-assessment.md
+├── technical-projects/
 │   ├── aws-account-governance.md
 │   ├── aws-automated-access-review.md
-│   ├── soc2-readiness-evaluation.md
-│   └── hipaa-security-assessment.md
 ├── blog/
 │   ├── grc-engineering-journey.md
 │   ├── soc2-gap-analysis-playbook.md
@@ -117,7 +123,7 @@ GRC_Portfolio/
 ## Contact Information
 
 - **Email**: michaelnichols.grcanalyst@gmail.com
-- **LinkedIn**: [linkedin.com/in/michaelnichols](www.linkedin.com/in/michaelnicholsprofile)
+- **LinkedIn**: [linkedin.com/in/michaelnichols](https://www.linkedin.com/in/michaelnicholsprofile)
 - **GitHub**: [github.com/michaelnichols](https://github.com/mnichols936)
 - **Location**: Houston, TX, USA 
 
