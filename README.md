@@ -109,15 +109,10 @@ GRC_Portfolio/
 ├── technical-projects/
 │   ├── aws-account-governance.md
 │   ├── aws-automated-access-review.md
-├── blog/
+└── blog/
 │   ├── grc-engineering-journey.md
 │   ├── soc2-gap-analysis-playbook.md
-├── resources/
-│   ├── compliance-frameworks/
-│   └── aws-security-guides/
-└── assets/
-    ├── diagrams/
-    └── screenshots/
+
 ```
 
 ## Contact Information
