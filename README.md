@@ -44,11 +44,11 @@ I'm [Michael Nichols](www.linkedin.com/in/michaelnicholsprofile), a cybersecurit
 
 My career transition journey has involved:
 
-1. **Academic Foundation**: International Business & Finance degree providing global market perspective and analytical framework
-2. **Security Discovery**: Information Security internship at Ent Credit Union revealed passion for cybersecurity and introduction to GRC as "intersection of business and IT"
-3. **Compliance Operations**: Data Compliance Analyst role managing regulatory requirements for 700+ energy operations with 100% compliance rate
-4. **GRC Specialization**: Cybersecurity consulting focused on SOC 2, HIPAA, and NIST CSF implementations for Fortune 500 clients
-Technical Evolution: Currently building GRC engineering capabilities through AWS security automation and Windows-compatible tools
+1. **Academic Foundation**: International Business & Finance degree providing global market perspective and analytical framework.
+2. **Security Discovery**: Information Security internship at Ent Credit Union revealed passion for cybersecurity and introduction to GRC being the intersection of business and IT.
+3. **Compliance Operations**: Data Compliance Analyst role managing regulatory requirements for 700+ energy operations with 100% compliance rate.
+4. **GRC Specialization**: Cybersecurity consulting focused on SOC 2, HIPAA, and NIST CSF implementations for Fortune 500 clients.
+Technical Evolution: Currently building GRC engineering capabilities through AWS security automation and Windows-compatible tools.
 
 Key learnings include the critical need for GRC professionals to develop technical automation skills, the power of continuous monitoring over point-in-time assessments.
 
@@ -72,22 +72,22 @@ Key learnings include the critical need for GRC professionals to develop technic
 ## Traditional Security Experience
 
 ### GRC Analyst | Symposia | May 2024 - Present
-- Conducted SOC 2 Type II readiness evaluation for Azure-hosted SOC-as-a-Service platform, recommending relevant Trust Service Criteria to support 12-14 month Fortune 500 expansion timeline
-- Performed third-party risk assessment of $2.4M IaaS provider for telehealth platform migration, evaluating security controls for PII/PHI data protection and regulatory compliance
-- Completed HIPAA Security Rule compliance assessment for telehealth organization, evaluating 12+ access management requirements across 10 critical IT assets
-- Developed comprehensive NIST CSF maturity roadmap for web development company, advancing security posture from Tier 1 to Tier 2 across 8 core security domains
+- Conducted SOC 2 Type II readiness evaluation for Azure-hosted SOC-as-a-Service platform, recommending relevant Trust Service Criteria to support 12-14 month Fortune 500 expansion timeline.
+- Performed third-party risk assessment of $2.4M IaaS provider for telehealth platform migration, evaluating security controls for PII/PHI data protection and regulatory compliance.
+- Completed HIPAA Security Rule compliance assessment for telehealth organization, evaluating 12+ access management requirements across 10 critical IT assets.
+- Developed comprehensive NIST CSF maturity roadmap for web development company, advancing security posture from Tier 1 to Tier 2 across 8 core security domains.
 
 ### Data Compliance Analyst | Foro Energy | Feb 2024 - Nov 2024
-- Maintained 100% compliance with state regulations for 700+ well abandonment operations, preventing regulatory violations
-- Processed and verified regulatory documentation for 70+ wells monthly, ensuring 811 WTE and state compliance while maintaining data integrity
-- Conducted daily well-status audits and collaborated with vendor partners to ensure data integrity and operational compliance
-- Performed 100+ well operation invoices monthly across 3 enterprise systems, ensuring accurate cost allocation and financial documentation
+- Maintained 100% compliance with state regulations for 700+ well abandonment operations, preventing regulatory violations.
+- Processed and verified regulatory documentation for 70+ wells monthly, ensuring 811 WTE and state compliance while maintaining data integrity.
+- Conducted daily well-status audits and collaborated with vendor partners to ensure data integrity and operational compliance.
+- Performed 100+ well operation invoices monthly across 3 enterprise systems, ensuring accurate cost allocation and financial documentation.
 
 ### Information Security Intern | Ent Credit Union | Jun 2023 - Aug 2023
-- Assessed asset inventory, implementing decommissioning strategies that reduced operational costs by $2,500 monthly
-- Analyzed telecom system data using ServiceNow ITSM and Cisco Security Suite to investigate service delivery escalations
-- Refined access controls for 25+ employees using Microsoft Azure IAM, reducing privileged accounts by 20%
-- Created threat intelligence system using Carbon Black Cloud, establishing 10-tier severity-based IoC watchlist
+- Assessed asset inventory, implementing decommissioning strategies that reduced operational costs by $2,500 monthly.
+- Analyzed telecom system data using ServiceNow ITSM and Cisco Security Suite to investigate service delivery escalations.
+- Refined access controls for 25+ employees using Microsoft Azure IAM, reducing privileged accounts by 20%.
+- Created threat intelligence system using Carbon Black Cloud, establishing 10-tier severity-based IoC watchlist.
 
 ## Education
 
@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Inspired by AJ Yawn's GRC Portfolio Hub and the need for practical GRC engineering resources
+- Inspired by AJ Yawn's GRC Portfolio Hub and the need for practical GRC engineering resources.
 
 ---
 
