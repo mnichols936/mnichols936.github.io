@@ -9,11 +9,6 @@ Deployed a serverless tool that automates IAM security assessments, generates CS
 - Ran immediate report → generated CSV of IAM misconfigurations and AI summary from Bedrock.
 - Validated integration with Security Hub and IAM Access Analyzer.
 
-## Challenges / Issues
-- Environment setup
-- Initial SES verification email landed in spam; fixed by whitelisting sender.
-- Lambda timeout hit once during testing on a large account → adjusted memory and timeout.
-
   ## Challenges / Issues
 - Windows Compatibility: Bash scripts failed; worked with AI tool to create PowerShell equivalents
 - Limited CLI Permissions: Got AccessDenied errors; used AWS Console for service enablement  
