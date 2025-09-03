@@ -68,13 +68,13 @@ Key learnings include the critical need for GRC professionals to develop technic
 
 These hands-on AWS security labs are maintained by AJ Yawn. I completed them to build GRC engineering skills and document my own notes/customizations. This is meant to demonstrate how I apply traditional GRC frameworks to cloud tools and automation.
 
-- [AWS Account Governance & Security Foundations](technical-labs/aws-account-governance.md)
+- [AWS Account Governance & Security Foundations](technical-labs/aws-account-governance/lab.md)
 Established IAM Identity Center (SSO), MFA, AWS Config rules, and Security Hub with CIS/NIST mapping.
 📝 [Notes](technical-labs/lab-1-account-governance/NOTES.md)
 🔗 [Source](https://github.com/ajy0127/grc_portfolio/tree/main/labs/lab-1-account-governance)  
 
 
-- [AWS Automated Access Review](technical-labs/aws-automated-access-review.md)
+- [AWS Automated Access Review](technical-labs/aws-automated-access-review/lab.md)
   Comprehensive security assessment tool that automatically evaluates your AWS environment for potential security risks and compliance gaps.
   📝 [Notes](technical-labs/aws-automated-access-review/NOTES.md)
   🔗 [Source](https://github.com/ajy0127/aws_automated_access_review.git)  
