@@ -10,15 +10,19 @@ Deployed a serverless tool that automates IAM security assessments, generates CS
 - Validated integration with Security Hub and IAM Access Analyzer.
 
   ## Challenges / Issues
-- Windows Compatibility: Bash scripts failed; worked with AI tool to create PowerShell equivalents
-- Limited CLI Permissions: Got AccessDenied errors; used AWS Console for service enablement  
-- Lambda Deployment: Automated deployment failed; required manual packaging and troubleshooting
-- Regional Mismatch: Scripts defaulted to us-east-1, CLI used us-east-2
+- Windows Compatibility: Bash scripts failed; created PowerShell equivalents by swapping ".sh" for ".ps1"
+- Model Compatibility Discovery: Original lab used Claude v2, but testing revealed multiple models work with different approaches:
+  - Claude v2: Works with original code (direct model access)
+  - Claude 3.5 Sonnet: Requires inference profile modifications
+  - Claude 3 Opus: Requires inference profile modifications
+  - Claude Opus 4.1: Works with original code (backward compatible)
+  - Successfully modified code for Claude 3 Opus by updating model ID format and redeploying
 
 ## Key Learnings
 - Automating IAM reviews reduces audit prep time (SOC 2, HIPAA).
 - Bedrock can turn raw CSV data into compliance-friendly summaries.
 - Serverless architecture minimizes cost (~$1/month) while scaling up to 2000+ resources.
+- Systematic testing across Claude model versions revealed compatibility patterns rather than universal requirements (Will change with AWS removing access request step entirely, regardless of model choice)
 
 ## Business Value
 - SOC 2 Type II: enables monthly evidence generation.
