@@ -86,7 +86,7 @@ Established IAM Identity Center (SSO), MFA, AWS Config rules, and Security Hub w
   
 ## Traditional Security Experience
 
-### GRC Analyst | Symposia | May 2024 - Present
+### GRC Analyst | Symposia | May 2024 - Sept 2025
 - Conducted SOC 2 Type II readiness evaluation for Azure-hosted SOC-as-a-Service platform, recommending relevant Trust Service Criteria to support 12-14 month Fortune 500 expansion timeline.
 - Performed third-party risk assessment of $2.4M IaaS provider for telehealth platform migration, evaluating security controls for PII/PHI data protection and regulatory compliance.
 - Completed HIPAA Security Rule compliance assessment for telehealth organization, evaluating 12+ access management requirements across 10 critical IT assets.
